@@ -1,0 +1,16 @@
+.DS_Store
+build
+dist
+venv
+*.db
+*.egg
+*.egg-info
+*.pyc
+*.sqlite3
+.idea
+.cache
+.coverage
+.pypirc
+.pytest_cache
+.ruff_cache
+.tox

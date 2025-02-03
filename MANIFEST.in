@@ -1,0 +1,2 @@
+include django_command_form/templates/command/exec_done.html
+include django_command_form/templates/command/exec_form.html

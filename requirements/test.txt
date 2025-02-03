@@ -1,0 +1,7 @@
+black>=24.0.0
+django-stubs>=5.1.1
+django-stubs-ext>=5.1.1
+pytest>=6.2.5,<8
+pytest-django>=4.5.2
+ruff>=0.9.3
+mypy>=1.13.0
